@@ -1,1 +1,3 @@
-Nueva Version para llevar el registro
+Nueva Version para llevar el registro.
+
+Manuel estuvo aquí desde su pc corrigiendo los demás archivos en su git.
